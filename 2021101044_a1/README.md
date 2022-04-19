@@ -19,7 +19,10 @@ Takes input of comma seperated data and prints space seperated sorted(in ascendi
 Takes a string as input and prints the reverse string,string with letters in the reverse output replaced with subsequent letter and first half of the string in reversed and second half unchanged order.
 
 - For execution run 
-  - chmod +x filename
-  - ./filename
+```
+   chmod +x filename
+   ./filename
+```
 
 ## Git repository link:
+https://github.com/vishna2003/ISS-assignment1/tree/master/2021101044_a1
